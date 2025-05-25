@@ -57,7 +57,7 @@ defaults write com.apple.TextEdit "RichText" -bool "false"
 # Set TextEdit tab width to 4
 defaults write com.apple.TextEdit "TabWidth" '4'
 
-# Set rows and columns to 5 and 7 in Launchpad
+# Set rows and columns to 6 and 7 in Launchpad
 defaults write com.apple.dock springboard-rows -int 6
 defaults write com.apple.dock springboard-columns -int 7
 
